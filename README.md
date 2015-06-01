@@ -31,4 +31,5 @@ build.html file will have the web components inlined. It's even possible to inli
  - Distributing Components with Bower: https://www.polymer-project.org/0.5/articles/distributing-components-with-bower.html
 
 ### Dependency Injection for JavaScript
+ - [Polymer and working with external JavaScript Libraries](http://stackoverflow.com/questions/30557516/polymer-and-working-with-external-javascript-libraries)
  - [Use requirejs and jquery, without clobbering global jquery?](http://stackoverflow.com/questions/4858431/use-requirejs-and-jquery-without-clobbering-global-jquery)
